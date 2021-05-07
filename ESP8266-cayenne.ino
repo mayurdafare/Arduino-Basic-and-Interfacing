@@ -9,12 +9,12 @@
 
 // WiFi network info.
 char ssid[] = "Nokia 6";
-char wifiPassword[] = "mayur@123";
+char wifiPassword[] = "pass@123";
 
 // Cayenne authentication info. This should be obtained from the Cayenne Dashboard.
-char username[] = "9f67e470-11bc-11e8-a2eb-7d0b45aada7b";
-char password[] = "2fe69e0a6c885a2da6b717f049fd0351ca2ca5c7";
-char clientID[] = "a177ffc0-11bc-11e8-9f2a-b3b29283a596";
+char username[] = "9f67e47xxxxxxxxxxxxxxxxeb-7d0b45aada7b";
+char password[] = "2fe69e0axxxxxxxxxxxxxxxxfd0351ca2ca5c7";
+char clientID[] = "a177ffcxxxxxxxxxxxxxxxxxxxb3b29283a596";
 
 DHT dht(D2, DHT11);
 
